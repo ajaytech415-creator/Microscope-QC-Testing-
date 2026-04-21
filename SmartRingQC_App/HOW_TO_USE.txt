@@ -1,0 +1,22 @@
+SMART RING QC INSPECTOR — HOW TO USE
+=====================================
+
+1. Connect microscope to laptop via USB
+2. Double-click SmartRingQC.exe to open
+3. Press SPACEBAR to capture a ring photo
+4. Review the image on screen
+5. Press A = Accept, R = Reject, W = Rework
+6. Press Z = Undo last action
+7. Press S = Skip current image
+
+All images are saved automatically.
+Reports are saved in the reports/ folder.
+Each day gets its own folder automatically.
+
+KEYBOARD SHORTCUTS:
+SPACE = Capture photo
+A     = Accept
+R     = Reject
+W     = Rework
+S     = Skip
+Z     = Undo
